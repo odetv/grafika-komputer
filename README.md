@@ -8,7 +8,7 @@ Pada repo ini saya `I Gede Gelgel Abdiutama`, membuat beberapa program python da
 - Lingkaran
 - Persegi
 - Persegi Panjang
-- Paint (Gunakan gerakan Mouse + Keyboard `L` untuk Garis dan `C` untuk Lingkaran)
+- Paint (Gunakan event Mouse + Keyboard `L` untuk Garis dan `C` untuk Lingkaran)
 
 ## Feedback
 
