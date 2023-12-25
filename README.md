@@ -1,4 +1,4 @@
-# Algoritma DDA & Algoritma Bresenham
+# Algoritma DDA & Algoritma Bresenham Grafika Komputer
 
 Pada repo ini saya `I Gede Gelgel Abdiutama`, membuat beberapa program python dalam membuat garis, persegi, dan persegi panjang menggunakan Algoritma DDA, serta membuat lingkaran menggunakan Algoritma Bresenham.
 
